@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'optiedgarboldextended';
-    src: url("path/GraublauWeb.otf") format("opentype");
+    src: url("https://raw.githubusercontent.com/mr94valerio/OptiEdgarBoldExtended/blob/master/OPTIEdgarBoldExtended.otf") format("opentype");
     font-weight: 100;
     font-style: normal;
 } 

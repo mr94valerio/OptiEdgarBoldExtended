@@ -4,3 +4,10 @@
     font-weight: 100;
     font-style: normal;
 } 
+
+@font-face {
+    font-family: 'panobold';
+    src: url("https://mr94valerio.github.io/OptiEdgarBoldExtended/panobold.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+}

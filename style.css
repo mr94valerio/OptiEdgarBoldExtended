@@ -11,3 +11,18 @@
     font-weight: 100;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'silkamono';
+    src: url("https://mr94valerio.github.io/OptiEdgarBoldExtended/SilkaMono-Medium.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'daguin';
+    src: url("https://mr94valerio.github.io/OptiEdgarBoldExtended/Daguin_Regular.otf") format("opentype");
+    font-weight: 100;
+    font-style: normal;
+}
